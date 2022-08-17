@@ -1,1 +1,2 @@
 
+https://kryptoverseapp.netlify.app/
