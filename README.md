@@ -1,2 +1,2 @@
 
-https://kryptoverseapp.netlify.app/
+Link to the site: https://kryptoverseapp.netlify.app/
